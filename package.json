@@ -12,11 +12,11 @@
 		"cors": "^2.8.5",
 		"dotenv": "^8.2.0",
 		"express": "^4.16.4",
-		"express-validator": "^6.8.0",
+		"express-validator": "^6.12.2",
 		"mongoose": "^6.0.6"
 	},
 	"repository": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-project-exercisetracker"
+		"url": "https://github.com/mooktar/boilerplate-project-exercisetracker"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.4"
